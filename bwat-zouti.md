@@ -35,7 +35,7 @@ Pour installer une extension, rendez-vous dans le menu `Outils`, puis `Modules c
 
 Utilisez le petit moteur de recherche pour installer les extensions suivantes (ou ajoutez-les via le bouton `Add to Firefox` en ouvrant dans Firefox le lien direct sur le site de Mozilla indiqué ici entre parenthèses) : 
 
-* **Total Validator** ([Total Validator sur le site de Mozilla](https://addons.mozilla.org/fr/firefox/addon/total-validator/?src=search)) ;
+* **Total Validator** ([Total Validator](https://www.totalvalidator.com/downloads/index.html) et [son extension](https://www.totalvalidator.com/downloads/extension.html)) ;
 * **Firebug** ([Firebug sur le site de Mozilla](https://addons.mozilla.org/fr/firefox/addon/firebug/?src=search)) ;
 * **HeadingsMap** de Rumoroso ([HeadingsMap sur le site de Mozilla](https://addons.mozilla.org/fr/firefox/addon/headingsmap/?src=ss)) ;
 * **Web Developer** de chrispederick ([Web Developer sur le site de Mozilla](https://addons.mozilla.org/fr/firefox/addon/web-developer/?src=s)) ;
