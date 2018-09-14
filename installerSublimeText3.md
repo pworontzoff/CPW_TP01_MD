@@ -156,11 +156,11 @@ En détail, cela donne dans ce cas :
 	* Permet de sélectionner toutes les occurrences suivantes d’une sélection
 	* Rend possible l’édition multiple
 
-8. `ALT` + Souris : 
+8. Clic molette + déplacer la souris : 
 	* Rend possible la sélection en colonne
 
-9. `CTRL`+`SHIFT`+`W`
-	* Permet d’encadrer une sélection avec une balise HTML
+(9. `CTRL`+`SHIFT`+`W`
+	* Permet d’encadrer une sélection avec une balise HTML)
 	
 10. `CTRL`+`MAJ`+`P`
 	* Donne la liste des commandes disponibles 
