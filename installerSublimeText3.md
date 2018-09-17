@@ -159,8 +159,8 @@ En détail, cela donne dans ce cas :
 8. Clic molette + déplacer la souris : 
 	* Rend possible la sélection en colonne
 
-(9. `CTRL`+`SHIFT`+`W`
-	* Permet d’encadrer une sélection avec une balise HTML)
+9. `CTRL`+`SHIFT`+`G`
+	* Permet d’encadrer une sélection avec une balise HTML
 	
 10. `CTRL`+`MAJ`+`P`
 	* Donne la liste des commandes disponibles 
