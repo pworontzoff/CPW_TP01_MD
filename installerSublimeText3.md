@@ -159,7 +159,7 @@ En détail, cela donne dans ce cas :
 8. Clic molette + déplacer la souris : 
 	* Rend possible la sélection en colonne
 
-9. `CTRL`+`SHIFT`+`G`
+9. `CTRL`+`SHIFT`+`G` (`CTRL`+`SHIFT`+`W` sous Mac)
 	* Permet d’encadrer une sélection avec une balise HTML
 	
 10. `CTRL`+`MAJ`+`P`
